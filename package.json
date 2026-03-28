@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "src/index.js"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 6b242de055467c53cc1ff94ba791f48fe55d1641
   },
   "keywords": [],
   "author": "",
